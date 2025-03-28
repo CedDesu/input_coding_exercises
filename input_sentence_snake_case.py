@@ -6,4 +6,4 @@ add .lower instead of .title
 
 """
 
-
+print("_".join(input("input name: ").lower().split()))
