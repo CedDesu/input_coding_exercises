@@ -6,7 +6,7 @@ add title and split to use pascal case format
 
 """
 
-
+print("".join(input("Please type a sentence: ").title().split()))
 
 
 
